@@ -1,0 +1,5 @@
+node_modules/
+dist/
+cpp_tracker
+.DS_Store
+*.log
